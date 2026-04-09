@@ -22,7 +22,8 @@ students’ final exam percentages and provide insights that can help improve ac
 4.	What is the impact of practice tests on final scores? 
 5.	Is there an optimal sleep range for better academic performance? 
 
-** Dataset Description: The dataset contains the following variables:**
+** Dataset Description**
+**The dataset contains the following variables:**
 
 •	Hours Studied – Number of hours spent studying 
 •	Attendance (%) – Student attendance rate 
@@ -117,7 +118,11 @@ students’ final exam percentages and provide insights that can help improve ac
 **Conclusion**
 
 
+**AUTOR:**
+**GRACE O. ABAUKAKA**
 
+I am interested in data analysis, visualization and statistical analysis.
+You can reach me via gracegrace449@gmail.com
 
 
  
