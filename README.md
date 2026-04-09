@@ -5,16 +5,16 @@ Introduction
 This project analyzes students’ academic performance using statistical and data analysis techniques. The goal is to identify how different factors influence 
 students’ final exam percentages and provide insights that can help improve academic outcomes.
 
- Objectives 
+ **Objectives** 
  
-The main objectives of this project are:
+**The main objectives of this project are:**
 •	To examine the effect of hours studied on exam performance 
 •	To analyze the relationship between attendance percentage and final scores 
 •	To determine whether previous scores influence final performance 
 •	To evaluate the impact of sleep hours on academic success 
 •	To assess how practice tests affect final exam percentages 
 
-Research Questions
+**Research Questions**
 
 1.	How does the number of hours studied affect the final percentage? 
 2.	Is there a relationship between attendance and exam performance? 
@@ -22,9 +22,9 @@ Research Questions
 4.	What is the impact of practice tests on final scores? 
 5.	Is there an optimal sleep range for better academic performance? 
 
- Dataset Description
+** Dataset Description**
  
-The dataset contains the following variables:
+**The dataset contains the following variables:**
 
 •	Hours Studied – Number of hours spent studying 
 •	Attendance (%) – Student attendance rate 
@@ -41,7 +41,7 @@ The dataset contains the following variables:
 | Practice Tests   | Number of tests taken          | Independent |
 | Final Percentage | Exam score                     | Dependent   |
 
-Tools & Technologies
+**Tools & Technologies**
 
 •	Microsoft Excel (Data cleaning & analysis) 
 •	Pivot Tables & Charts 
@@ -57,15 +57,15 @@ Tools & Technologies
 | Correlation Analysis | Determine relationship     |
 |Statistical Techniques| Prediction & Forecasting   |
 
- Methodology
+**Methodology**
  
-The project uses the following methods:
+**The project uses the following methods:**
 •	Correlation Analysis to identify relationships between variables 
 •	Regression Analysis to measure the impact of independent variables on exam performance 
 •	Data Visualization (charts & graphs) for insights 
 •	Pivot Analysis to measure the impact of independent variables to dependent variable
 
-Performance Trend
+**Performance Trend**
 
 | Practice Tests Taken | Average Final Percentage |
 | -------------------- | ------------------------ |
@@ -76,7 +76,7 @@ Performance Trend
 | 8                    | 81.33                    |
 | 10                   | 86.66                    |
 
-Key Metrix
+**Key Metrix**
 
 | Metric            | Value | Interpretation                            |
 | ----------------- | ----- | ----------------------------------------- |
@@ -85,7 +85,7 @@ Key Metrix
 | Standard Error    | 4.95  | Low prediction error                      |
 | Observations      | 1000  | Large dataset                             |
 
-Key Findings
+**Key Findings**
 
 •	There is a strong positive relationship between hours studied and exam performance 
 •	Attendance significantly affects final percentages 
@@ -103,7 +103,7 @@ Key Findings
 | Practice Tests  | Improves performance        |
 | Sleep Hours     | Moderate impact (weak)      |
 
- Recommendations
+ **Recommendations**
  
 •	Students should maintain consistent study habits 
 •	Schools should encourage regular attendance 
@@ -116,9 +116,8 @@ Key Findings
 | Practice     | Take more practice tests         |
 | Lifestyle    | Maintain balanced sleep schedule |
 
- Conclusion
- 
- The analysis shows that student performance is influenced by study behavior, attendance, and preparation strategies. Improving these factors can significantly boost academic outcomes.
+**Conclusion**
+
 
 
 
