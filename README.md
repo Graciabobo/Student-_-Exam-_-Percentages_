@@ -23,8 +23,8 @@ students’ final exam percentages and provide insights that can help improve ac
 5.	Is there an optimal sleep range for better academic performance? 
 
 ** Dataset Description**
-**The dataset contains the following variables:**
 
+**The dataset contains the following variables:**
 •	Hours Studied – Number of hours spent studying 
 •	Attendance (%) – Student attendance rate 
 •	Previous Scores – Past academic performance 
@@ -116,7 +116,7 @@ students’ final exam percentages and provide insights that can help improve ac
 | Lifestyle    | Maintain balanced sleep schedule |
 
 **Conclusion**
-
+This analysis shows that academic performance is influenced by multiple factors, including study habits, attendance, and lifestyle choices. By focusing on these key areas, students and educators can improve overall academic success.
 
 **AUTOR:**
 **GRACE O. ABAUKAKA**
@@ -125,5 +125,10 @@ I am interested in data analysis, visualization and statistical analysis.
 You can reach me via gracegrace449@gmail.com
 
 
- 
-This analysis shows that academic performance is influenced by multiple factors, including study habits, attendance, and lifestyle choices. By focusing on these key areas, students and educators can improve overall academic success.
+
+
+
+
+
+
+
