@@ -1,5 +1,8 @@
 **Students Exam Percentage Analysis**
 
+![Image](https://github.com/user-attachments/assets/31ac1f5b-dc03-4b48-a552-16c44d6b6aad)
+
+
 **Introduction**
 
 This project analyzes students’ academic performance using statistical and data analysis techniques. The goal is to identify how different factors influence 
