@@ -3,12 +3,12 @@
 ![Image](https://github.com/user-attachments/assets/31ac1f5b-dc03-4b48-a552-16c44d6b6aad)
 
 
-**Introduction**
+## Introduction
 
 This project analyzes students’ academic performance using statistical and data analysis techniques. The goal is to identify how different factors influence 
 students’ final exam percentages and provide insights that can help improve academic outcomes.
 
- **Objectives** 
+ ### Objectives 
  
 **The main objectives of this project are:**
 •	To examine the effect of hours studied on exam performance 
@@ -17,7 +17,7 @@ students’ final exam percentages and provide insights that can help improve ac
 •	To evaluate the impact of sleep hours on academic success 
 •	To assess how practice tests affect final exam percentages 
 
-**Research Questions**
+## Research Questions
 
 1.	How does the number of hours studied affect the final percentage? 
 2.	Is there a relationship between attendance and exam performance? 
@@ -25,7 +25,7 @@ students’ final exam percentages and provide insights that can help improve ac
 4.	What is the impact of practice tests on final scores? 
 5.	Is there an optimal sleep range for better academic performance? 
 
-**The dataset description contains the following variables:**
+## The dataset description contains the following variables:
 
 •	Hours Studied – Number of hours spent studying 
 •	Attendance (%) – Student attendance rate 
@@ -42,7 +42,7 @@ students’ final exam percentages and provide insights that can help improve ac
 | Practice Tests   | Number of tests taken          | Independent |
 | Final Percentage | Exam score                     | Dependent   |
 
-**Tools & Technologies**
+## Tools & Technologies
 
 •	Microsoft Excel (Data cleaning & analysis) 
 •	Pivot Tables & Charts 
@@ -58,7 +58,7 @@ students’ final exam percentages and provide insights that can help improve ac
 | Correlation Analysis | Determine relationship     |
 |Statistical Techniques| Prediction & Forecasting   |
 
-**Methodology**
+## Methodology
  
 **The project uses the following methods:**
 •	Correlation Analysis to identify relationships between variables 
@@ -66,7 +66,7 @@ students’ final exam percentages and provide insights that can help improve ac
 •	Data Visualization (charts & graphs) for insights 
 •	Pivot Analysis to measure the impact of independent variables to dependent variable
 
-**Performance Trend**
+## Performance Trend
 
 | Practice Tests Taken | Average Final Percentage |
 | -------------------- | ------------------------ |
@@ -77,7 +77,7 @@ students’ final exam percentages and provide insights that can help improve ac
 | 8                    | 81.33                    |
 | 10                   | 86.66                    |
 
-**Key Metrix**
+## Key Metrix
 
 | Metric            | Value | Interpretation                            |
 | ----------------- | ----- | ----------------------------------------- |
@@ -86,7 +86,7 @@ students’ final exam percentages and provide insights that can help improve ac
 | Standard Error    | 4.95  | Low prediction error                      |
 | Observations      | 1000  | Large dataset                             |
 
-**Key Findings**
+## Key Findings
 
 •	There is a strong positive relationship between hours studied and exam performance 
 •	Attendance significantly affects final percentages 
@@ -104,7 +104,7 @@ students’ final exam percentages and provide insights that can help improve ac
 | Practice Tests  | Improves performance        |
 | Sleep Hours     | Moderate impact (weak)      |
 
- **Recommendations**
+ ## Recommendations
  
 •	Students should maintain consistent study habits 
 •	Schools should encourage regular attendance 
@@ -117,12 +117,12 @@ students’ final exam percentages and provide insights that can help improve ac
 | Practice     | Take more practice tests         |
 | Lifestyle    | Maintain balanced sleep schedule |
 
-**Conclusion**
+## Conclusion
 
 
 This analysis shows that academic performance is influenced by multiple factors, including study habits, attendance, and lifestyle choices. By focusing on these key areas, students and educators can improve overall academic success.
 
-**AUTOR:**
+## AUTOR:
 **GRACE O. ABAUKAKA**
 
 I am interested in data analysis, visualization and statistical analysis.
