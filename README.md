@@ -11,11 +11,16 @@ students’ final exam percentages and provide insights that can help improve ac
  ### Objectives 
  
 **The main objectives of this project are:**
-•	To examine the effect of hours studied on exam performance 
-•	To analyze the relationship between attendance percentage and final scores 
-•	To determine whether previous scores influence final performance 
-•	To evaluate the impact of sleep hours on academic success 
-•	To assess how practice tests affect final exam percentages 
+
+•	 To examine the effect of hours studied on exam performance 
+
+•	 To analyze the relationship between attendance percentage and final scores 
+
+•	 To determine whether previous scores influence final performance 
+
+•	 To evaluate the impact of sleep hours on academic success 
+
+•	 To assess how practice tests affect final exam percentages 
 
 ## Research Questions
 
@@ -28,11 +33,17 @@ students’ final exam percentages and provide insights that can help improve ac
 ## The dataset description contains the following variables:
 
 •	Hours Studied – Number of hours spent studying 
+
 •	Attendance (%) – Student attendance rate 
+
 •	Previous Scores – Past academic performance 
+
 •	Sleep Hours – Average daily sleep duration 
+
 •	Practice Tests – Number of practice tests taken 
+
 •	Final Percentage – Student exam score (target variable) 
+
 | Variable         | Description                    | Type        |
 | ---------------- | ------------------------------ | ----------- |
 | Hours Studied    | Number of hours spent studying | Independent |
@@ -45,10 +56,15 @@ students’ final exam percentages and provide insights that can help improve ac
 ## Tools & Technologies
 
 •	Microsoft Excel (Data cleaning & analysis) 
+
 •	Pivot Tables & Charts 
+
 • Regression Analysis 
+
 •	Statistical Techniques 
+
 • Correlation Analysis
+
 | Tool                 | Purpose                    |
 | -------------------  | -------------------------- |
 | Microsoft Excel      | Data cleaning and analysis |
@@ -61,9 +77,13 @@ students’ final exam percentages and provide insights that can help improve ac
 ## Methodology
  
 **The project uses the following methods:**
+
 •	Correlation Analysis to identify relationships between variables 
+
 •	Regression Analysis to measure the impact of independent variables on exam performance 
+
 •	Data Visualization (charts & graphs) for insights 
+
 •	Pivot Analysis to measure the impact of independent variables to dependent variable
 
 ## Performance Trend
@@ -89,11 +109,17 @@ students’ final exam percentages and provide insights that can help improve ac
 ## Key Findings
 
 •	There is a strong positive relationship between hours studied and exam performance 
+
 •	Attendance significantly affects final percentages 
+
 •	Students with higher previous scores tend to perform better 
+
 •	More practice tests generally lead to higher scores 
+
 •	Balanced sleep hours contribute to improved performance 
+
 • The most important factors affecting students’ final percentage are: Hours studied (strongest effect), previous score,
+ 
   practice tests  and attendance percentage. Sleep hours does not play a significant role in this analysis.
 
 | Factor          | Impact on Performance       |
@@ -107,9 +133,13 @@ students’ final exam percentages and provide insights that can help improve ac
  ## Recommendations
  
 •	Students should maintain consistent study habits 
+
 •	Schools should encourage regular attendance 
+
 •	Practice tests should be incorporated into learning routines 
+
 •	Students should maintain a healthy sleep schedule 
+
 | Area         | Recommendation                   |
 | ------------ | -------------------------------- |
 | Study Habits | Increase consistent study hours  |
